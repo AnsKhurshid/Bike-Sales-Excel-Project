@@ -24,7 +24,7 @@ With the insights gathered from the pivot tables, I then designed an interactive
 To explore the project:
 
 1. Clone or download the repository to your local machine.
-2. Open the relevant Excel files using Microsoft Excel or any compatible spreadsheet software.
+2. Open the relevant Excel file using Microsoft Excel or any compatible spreadsheet software.
 3. Navigate through the worksheets to view the cleaned data, pivot tables, and interactive dashboard.
 4. Interact with the dashboard using slicers and other controls to dynamically analyze the data.
 
